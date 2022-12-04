@@ -1,0 +1,1 @@
+document.getElementById("javascriptoo").innerHTML = "<p>Javascript Different Origin Content</p>";
